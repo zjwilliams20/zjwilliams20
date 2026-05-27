@@ -4,4 +4,4 @@ reach out to me at:
 - [LinkedIn 💼](https://www.linkedin.com/in/zach-williams-2ab307129/)
 - [email 📫](mailto:zjwilliams20@gmail.com)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=zjwilliams20)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjwilliams20)](https://github.com/anuraghazra/github-readme-stats)
