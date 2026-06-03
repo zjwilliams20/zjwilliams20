@@ -29,5 +29,3 @@ The two main camps I've observed in the RF-sensing world are the model-heavy, cl
 
 * [`modrec-zoo`](https://github.com/zjwilliams20/modrec-zoo) Modulation-Recognition Zoo
 * [`dpqilr`](https://github.com/labicon/dp-ilqr) Distributed Potential Iterative-Linear-Quadratic-Regulator (from UIUC graduate work)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjwilliams20)](https://github.com/anuraghazra/github-readme-stats)
